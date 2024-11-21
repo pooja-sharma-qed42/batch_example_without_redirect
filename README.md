@@ -24,3 +24,10 @@ CONFIGURATION
   2. Hit this form path: /batch-example/update
 
   3. You can clear the cache after enable the module.
+
+
+
+https://github.com/user-attachments/assets/ce48b2a4-000a-43ee-b7a9-378490a66651
+
+
+
